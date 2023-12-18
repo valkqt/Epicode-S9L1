@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 500px;
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.img {
+    width: 225px;
+    height: 225px;
+    border-style: ridge;
+}
+
+.button {
+    padding: 0.5rem 1rem;
+    background-color: rgb(168, 83, 168);
+    border: 0;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.61);
+    color:rgb(8, 8, 8);
+
+}
